@@ -42,15 +42,60 @@
 #     if ( k == r):
 #         print (r)
 
-j = int(input("Enter the number: "))
-x = 0
-y = 1
-z = x+y
-while(z <= j): 
-    print(z)
-    x = y
-    y = z
-    z = x + y
+# j = int(input("Enter the number: "))
+# x = 0
+# y = 1
+# z = x+y
+# while(z <= j): 
+#     print(z)
+#     x = y
+#     y = z
+#     z = x + y
+
+# for i in range(1500, 2700):
+#     if i%7 == 0 and i%5 == 0:
+#         print(i)
+
+# numbers = (0, 1, 2, 3, 4, 5, 6, 88, -4)
+# even = 0
+# odd = 0
+# for i in numbers:
+#     if i%2 == 0:
+#         even += 1
+#         print(i, "is even")
+#     else:
+#         odd += 1
+#         print(i, "is odd")
+# print("Total even numbers: ", even)
+# print("Total odd numbers", odd)
+
+# numbers = (0, 1, 2, 3, 4, 5, 6)
+# for i in numbers:
+#     if i%3 != 0:
+#         print(i)
+
+# x = 0
+# y = 1
+# z = x + y
+# count = 1
+# while count <= 20:
+#     x = y
+#     y = z
+#     z = x + y
+#     count += 1
+#     print(z, end=" ")
+
+
+
+
+
+
+    
+
+
+
+
+
 
 
 
